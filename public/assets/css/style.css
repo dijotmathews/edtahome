@@ -1,0 +1,73 @@
+.office_mainBearer
+{
+    width: 250px;
+    height: 300px;
+    border: #ff00ff 0px solid;
+    text-align: center;
+    float: left;
+    padding: 20px;
+}
+
+.office_mainBearer div
+{
+    margin: 10px;
+}
+
+.office_mainBearerPosition
+{
+    display: block;
+    font-family: Arial;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.office_mainBearerImage
+{
+    display: block;
+    text-align:center;
+}
+
+.office_mainBearerImage img
+{ height: 150px;
+    overflow: hidden;
+}
+
+.office_mainBearerDetailBox
+{
+    margin: auto !important;
+    width: 160px;
+    max-width: 200px;
+}
+
+
+.office_mainBearerFullName
+{
+    display: block;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+}
+
+
+.office_mainBearerTPSince
+{
+    display: block;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    text-align: left;
+}
+
+
+.office_mainBearerEmail
+{
+    display: block;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    text-align: left;
+}
+
+
