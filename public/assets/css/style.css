@@ -71,3 +71,88 @@
 }
 
 
+.players_playerTable
+{
+    display: block;
+    margin: 20px;
+    padding: 10px;
+    width: 650px;
+    min-width: 300px;
+    overflow: hidden;
+}
+
+.players_playerTitleRow
+{
+    display: block;
+    float: left;
+    width: 100%;
+    overflow: hidden;
+    font-family: Arial;
+    font-size: 14px;
+    border-left: indigo 1px solid;
+    border-top: indigo 1px solid;
+}
+
+.players_playerTitleRow div
+{
+    display: inline;
+    float: left;
+    overflow: hidden;
+    border-right: indigo 1px solid;
+    border-bottom: indigo 1px solid;
+    padding: 5px;
+}
+
+.tableTitle
+{
+    font-weight: bold;
+}
+
+
+.players_playerRow
+{
+    display: block;
+    float: left;
+    width: 100%;
+    overflow: hidden;
+    font-family: Arial;
+    font-size: 14px;
+    border-left: indigo 1px solid;
+}
+
+.players_playerRow div
+{
+    display: inline;
+    float: left;
+    overflow: hidden;
+    height: 13px;
+    border-right: indigo 1px solid;
+    border-bottom: indigo 1px solid;
+    padding: 5px;
+}
+
+.players_fullname
+{
+    width: 150px;
+}
+
+.players_gender
+{
+    width: 60px;
+}
+
+.players_age
+{
+    width: 40px;
+}
+
+.players_level
+{
+    width: 120px;
+}
+
+.players_accolades
+{
+    width: 225px;
+}
+
